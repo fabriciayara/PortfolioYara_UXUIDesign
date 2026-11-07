@@ -265,6 +265,19 @@ a { color: inherit; text-decoration: none; }
 .card-reveste .card-credit { color: #716B5C; }
 .card-reveste .card-arrow { color: #24543F; }
 
+/* Papel & Afeto — Paleta 03 minimalismo delicado (verde-oliva/rosa queimado/bege rosado) */
+.card-papel {
+  background: #F7F4EF;
+  color: #302A26;
+  border: 1px solid #E9D9D0;
+}
+.card-papel .card-date { color: #6B5D53; }
+.card-papel .card-tool { background: #E9D9D0; color: #596747; }
+.card-papel .card-subtitle { color: #596747; }
+.card-papel p { color: #6B5D53; }
+.card-papel .card-credit { color: #8F7865; }
+.card-papel .card-arrow { color: #596747; }
+
 /* ---------- about ---------- */
 .about {
   border-top: 1px solid var(--border);
